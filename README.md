@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[Manager's README](https://furry-plywood-af8.notion.site/Ricardo-s-README-10d55226a9b049a488778c1786a8c661)
+
 <!--
 **rrjoson/rrjoson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
