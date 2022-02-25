@@ -9,7 +9,7 @@ Over the past 6 years, I have progressed from starting as a self-taught frontend
 **Current Affiliations** <br>
 
 1. *Engineering Manager* at [Apollo.io](https://www.apollo.io/)<br>
-2. *Mentor - [MentorCruise](https://mentorcruise.com/mentor/RicardoJoson/)<br>
+2. *Mentor* - [MentorCruise](https://mentorcruise.com/mentor/RicardoJoson/)<br>
 
 
 
